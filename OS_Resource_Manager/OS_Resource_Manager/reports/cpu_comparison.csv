@@ -1,0 +1,5 @@
+algorithm,average_waiting,average_turnaround
+FCFS,5.75,10.25
+SJF (non-preemptive),4.0,8.5
+Priority (non-preemptive),4.25,8.75
+Round Robin (q=2),7.25,11.75

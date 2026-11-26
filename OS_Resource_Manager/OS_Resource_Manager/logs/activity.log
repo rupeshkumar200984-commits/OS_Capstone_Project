@@ -1,0 +1,9 @@
+2026-11-07 15:44:50,216 | INFO | Complete simulation started
+2026-11-07 15:44:51,913 | INFO | Failed to extract font properties from /usr/share/fonts/opentype/cantarell/Cantarell-VF.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2026-11-07 15:44:52,504 | INFO | Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-11-07 15:44:52,621 | INFO | generated new fontManager
+2026-11-07 15:44:53,129 | INFO | Complete simulation finished successfully
+2026-11-13 14:44:57,266 | INFO | Complete simulation started
+2026-11-13 14:45:05,622 | WARNING | Matplotlib is building the font cache; this may take a moment.
+2026-11-13 14:45:06,740 | INFO | generated new fontManager
+2026-11-13 14:45:09,269 | INFO | Complete simulation finished successfully

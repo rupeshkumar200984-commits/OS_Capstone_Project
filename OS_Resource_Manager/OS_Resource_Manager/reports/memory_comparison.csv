@@ -1,0 +1,4 @@
+algorithm,allocated_processes,total_processes,internal_fragmentation_kb
+First Fit,3,4,559
+Best Fit,4,4,433
+Worst Fit,3,4,659
